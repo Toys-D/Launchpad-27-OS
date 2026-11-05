@@ -8,7 +8,7 @@
 
 The classic Launchpad, back on macOS 27. Apple removed Launchpad in macOS 26 and replaced it with the Apps view in Spotlight: no folders, no order of your own. Launchpad 27 OS brings back the full-screen grid of all your apps, with your pages, your folders and your order.
 
-**[Download Launchpad-27-OS-1.1.2.dmg](https://github.com/Toys-D/Launchpad-27-OS/releases/download/v1.1.2/Launchpad-27-OS-1.1.2.dmg)** · macOS 27 · Apple Silicon · free · *[Russian version below](#по-русски)*
+**[Download Launchpad-27-OS-1.2.dmg](https://github.com/Toys-D/Launchpad-27-OS/releases/download/v1.2/Launchpad-27-OS-1.2.dmg)** · macOS 27 · Apple Silicon · free · *[Russian version below](#по-русски)*
 
 <img src="images/en/banner.jpg" alt="Launchpad 27 OS: the classic Launchpad for macOS 27">
 
@@ -31,12 +31,12 @@ Pinch with your thumb and three fingers, press **F4**, or click the Dock icon, a
 - **Opens the way you like.** The Dock icon, F4 or any shortcut you choose, a pinch with the thumb and three fingers on the trackpad, or a hot corner.
 - **Folders.** Drop an app on another to make a folder, rename it, page through it. Folders can hold folders.
 - **Many icons at once.** Select with ⌘-click or by dragging a rectangle from an empty spot, then move the selection to any page or into a folder in one go.
-- **Search.** Starts as you type, in English and Russian; Return opens the result.
+- **Search.** Starts as you type, by the app names you see in your language; Return opens the result.
 - **Tidy by itself.** New apps appear on their own, deleted apps disappear. Apps you never use can be hidden and brought back from Settings.
 - **Your old layout.** On the first launch, folders and order are imported from the old Launchpad if its database is still on the Mac.
 - **Live settings.** Settings open over Launchpad, so every change to the grid, icons and background is visible at once.
 - **Updates itself.** Checks GitHub once a week; one click in Settings ▸ Updates installs the new version.
-- **English and Russian**, following the system language.
+- **11 languages:** English, Spanish, German, French, Italian, Portuguese, Japanese, Chinese, Korean, Ukrainian and Russian, following the system language.
 
 ## Install
 
@@ -95,7 +95,7 @@ Launchpad 27 OS is free: use it at home and at work and share the original DMG. 
 
 **Launchpad 27 OS** — классический Launchpad, снова в macOS 27. Apple убрала Launchpad в macOS 26 и заменила его просмотром «Программы» в Spotlight — без папок и без своего порядка. Launchpad 27 OS возвращает полноэкранную сетку всех программ: ваши страницы, ваши папки, ваш порядок.
 
-**[Скачать Launchpad-27-OS-1.1.2.dmg](https://github.com/Toys-D/Launchpad-27-OS/releases/download/v1.1.2/Launchpad-27-OS-1.1.2.dmg)** · macOS 27 · Apple Silicon · бесплатно
+**[Скачать Launchpad-27-OS-1.2.dmg](https://github.com/Toys-D/Launchpad-27-OS/releases/download/v1.2/Launchpad-27-OS-1.2.dmg)** · macOS 27 · Apple Silicon · бесплатно
 
 <img src="images/ru/banner.jpg" alt="Launchpad 27 OS — классический Launchpad для macOS 27">
 
@@ -118,12 +118,12 @@ Launchpad 27 OS is free: use it at home and at work and share the original DMG. 
 - **Открывается как удобно.** Значок в Dock, F4 или любое сочетание на ваш выбор, сведение большого и трёх пальцев на трекпаде или активный угол.
 - **Папки.** Бросьте программу на другую — получится папка; её можно переименовать и листать. В папке могут быть папки.
 - **Много иконок сразу.** Выделите ⌘-щелчком или рамкой с пустого места и перенесите на любую страницу или в папку одним движением.
-- **Поиск.** Начинается сразу при наборе, по-русски и по-английски; Return открывает найденное.
+- **Поиск.** Начинается сразу при наборе, по названиям программ на вашем языке; Return открывает найденное.
 - **Порядок сам собой.** Новые программы появляются сами, удалённые исчезают. Ненужные можно скрыть и вернуть в настройках.
 - **Старая раскладка.** При первом запуске папки и порядок переносятся из старого Launchpad, если на Mac осталась его база.
 - **Живые настройки.** Настройки открываются поверх Launchpad: каждое изменение сетки, иконок и фона видно сразу.
 - **Обновляется сам.** Раз в неделю проверяет GitHub, а новую версию ставит одно нажатие в «Настройки ▸ Обновления».
-- **Русский и английский** — по языку системы.
+- **11 языков:** русский, английский, украинский, испанский, немецкий, французский, итальянский, португальский, японский, китайский и корейский — по языку системы.
 
 ### Установка
 
