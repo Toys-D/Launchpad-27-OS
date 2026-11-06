@@ -3,6 +3,7 @@
 [![Latest release](https://img.shields.io/github/v/release/Toys-D/Launchpad-27-OS?label=release)](https://github.com/Toys-D/Launchpad-27-OS/releases/latest)
 ![macOS 27](https://img.shields.io/badge/macOS-27-informational)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-native-informational)
+[![Languages: 11](https://img.shields.io/badge/languages-11-informational)](#supported-languages)
 [![Downloads](https://img.shields.io/github/downloads/Toys-D/Launchpad-27-OS/total?color=informational)](https://github.com/Toys-D/Launchpad-27-OS/releases)
 [![License: freeware](https://img.shields.io/badge/license-freeware-green)](LICENSE)
 
@@ -36,7 +37,23 @@ Pinch with your thumb and three fingers, press **F4**, or click the Dock icon, a
 - **Your old layout.** On the first launch, folders and order are imported from the old Launchpad if its database is still on the Mac.
 - **Live settings.** Settings open over Launchpad, so every change to the grid, icons and background is visible at once.
 - **Updates itself.** Checks GitHub once a week; one click in Settings ▸ Updates installs the new version.
-- **11 languages:** English, Spanish, German, French, Italian, Portuguese, Japanese, Chinese, Korean, Ukrainian and Russian. It follows the system language, or you can pick another one in Settings ▸ General.
+- **11 languages.** It follows the system language, or you can pick another one in Settings ▸ General. See [Supported languages](#supported-languages).
+
+## Supported languages
+
+| Language | Code | Language | Code |
+|---|---|---|---|
+| English | `en` | Portuguese (Brazil) | `pt-BR` |
+| Spanish | `es` | Japanese | `ja` |
+| German | `de` | Chinese (Simplified) | `zh-Hans` |
+| French | `fr` | Korean | `ko` |
+| Italian | `it` | Ukrainian | `uk` |
+| | | Russian | `ru` |
+
+Everything is translated: the interface, settings, hints and the names of folders Launchpad creates itself (Utilities, Untitled, App Store categories). App names come from macOS in your language.
+
+- **Automatic.** Launchpad uses the first language from System Settings ▸ General ▸ Language & Region that it supports. If none of them is supported, it uses English.
+- **Your choice.** In Settings ▸ General ▸ Language, pick System or any of the 11 languages, then click Restart Now.
 
 ## Install
 
@@ -123,7 +140,23 @@ Launchpad 27 OS is free: use it at home and at work and share the original DMG. 
 - **Старая раскладка.** При первом запуске папки и порядок переносятся из старого Launchpad, если на Mac осталась его база.
 - **Живые настройки.** Настройки открываются поверх Launchpad: каждое изменение сетки, иконок и фона видно сразу.
 - **Обновляется сам.** Раз в неделю проверяет GitHub, а новую версию ставит одно нажатие в «Настройки ▸ Обновления».
-- **11 языков:** русский, английский, украинский, испанский, немецкий, французский, итальянский, португальский, японский, китайский и корейский. По умолчанию — язык системы, другой можно выбрать в «Настройки ▸ Общие».
+- **11 языков.** По умолчанию — язык системы, другой можно выбрать в «Настройки ▸ Общие». Список — в разделе [«Поддерживаемые языки»](#поддерживаемые-языки).
+
+### Поддерживаемые языки
+
+| Язык | Код | Язык | Код |
+|---|---|---|---|
+| русский | `ru` | итальянский | `it` |
+| английский | `en` | португальский (Бразилия) | `pt-BR` |
+| украинский | `uk` | японский | `ja` |
+| испанский | `es` | китайский (упрощённый) | `zh-Hans` |
+| немецкий | `de` | корейский | `ko` |
+| французский | `fr` | | |
+
+Переведено всё: интерфейс, настройки, подсказки и названия папок, которые Launchpad создаёт сам («Утилиты», «Без названия», категории App Store). Имена программ берутся из macOS на вашем языке.
+
+- **Автоматически.** Launchpad берёт первый язык из «Системные настройки ▸ Основные ▸ Язык и регион», на который он переведён. Если ни одного такого нет — английский.
+- **Вручную.** В «Настройки ▸ Общие ▸ Язык» выберите «Системный» или любой из 11 языков и нажмите «Перезапустить».
 
 ### Установка
 
